@@ -1,7 +1,3 @@
------------------------------------------------------
-#Bismillah
-#Assalamu-Alaikum 
-
 [!] Tmvenom :- 
   Tmvenom is a python based tool specially designed for
   Termux users.This payload generates some basic payloads
@@ -13,16 +9,7 @@
    
    1) Termux APp
    2) metasploit-framework 
-   
-[+] Author :-
-
-   Name      : Mujeeb
-   Youtube   : www.youtube.com/TechnicalMujeeb
-   Github    : https://github.com/TechnicalMujeeb/tmvenom.git
-   Whatsapp  : Termux Cyber
-   telegram  : https://t.me/TermuxCyber
-   Instagram : @Technical.Mujeeb
-
+  
 
 [+] Installation :-
   
